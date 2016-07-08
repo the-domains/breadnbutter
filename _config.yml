@@ -1,0 +1,14 @@
+layout_spectrum: 0.11335835210047662
+typography_spectrum: 0.8877121629193425
+color:
+  brandStrength: 0.4527775929309428
+  lightness: 0.7603008807636797
+  saturation: 0.3278350958134979
+  rhythmicContrast: 0.07571517815813422
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: breadnbutter
