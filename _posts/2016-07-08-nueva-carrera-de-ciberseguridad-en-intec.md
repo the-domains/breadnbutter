@@ -1,13 +1,17 @@
 ---
-description: ''
-dateModified: '2016-07-08T17:01:19.769Z'
-datePublished: '2016-07-08T17:03:18.828Z'
+description: >-
+  La Universidad Tecnologica de Santo Domingo, ha hecho publico el pensum de la
+  primera carrera de Ciberseguridad en la Republica Dominicana. Para mas
+  informacion, visitar:
+  https://www.intec.edu.do/asuntos-academicos/areas-academicas/ingenierias/item/ingenieria-en-ciberseguridad
+dateModified: '2016-07-08T17:06:00.296Z'
+datePublished: '2016-07-08T17:09:56.193Z'
 title: Nueva carrera de Ciberseguridad en INTEC
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7b3b683-ebb0-4323-94bb-ba1550aff8be.jpg
-starred: false
 sourcePath: _posts/2016-07-08-nueva-carrera-de-ciberseguridad-en-intec.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -16,3 +20,5 @@ _type: MediaObject
 ---
 # Nueva carrera de Ciberseguridad en INTEC
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7b3b683-ebb0-4323-94bb-ba1550aff8be.jpg)
+
+La Universidad Tecnologica de Santo Domingo, ha hecho publico el pensum de la primera carrera de Ciberseguridad en la Republica Dominicana. Para mas informacion, visitar: https://www.intec.edu.do/asuntos-academicos/areas-academicas/ingenierias/item/ingenieria-en-ciberseguridad
